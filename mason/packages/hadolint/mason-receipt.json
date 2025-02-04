@@ -1,0 +1,1 @@
+{"secondary_sources":[],"schema_version":"1.1","primary_source":{"id":"pkg:github\/hadolint\/hadolint@v2.12.0","type":"registry+v1"},"name":"hadolint","metrics":{"start_time":1738011369853,"completion_time":1738011370654},"links":{"share":{},"bin":{"hadolint":"hadolint-Linux-x86_64"},"opt":{}}}

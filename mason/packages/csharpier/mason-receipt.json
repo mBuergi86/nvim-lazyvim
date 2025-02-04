@@ -1,0 +1,1 @@
+{"secondary_sources":[],"schema_version":"1.1","primary_source":{"id":"pkg:nuget\/csharpier@0.30.6","type":"registry+v1"},"links":{"opt":{},"share":{},"bin":{"dotnet-csharpier":"dotnet-csharpier"}},"name":"csharpier","metrics":{"start_time":1738657769147,"completion_time":1738657771303}}
