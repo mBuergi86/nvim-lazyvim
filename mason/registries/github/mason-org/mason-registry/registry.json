@@ -9402,7 +9402,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:npm/%40prisma/language-server@6.3.0"
+      "id": "pkg:npm/%40prisma/language-server@6.3.1"
     },
     "bin": {
       "prisma-language-server": "npm:prisma-language-server"
@@ -11994,7 +11994,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:gem/steep@1.9.3"
+      "id": "pkg:gem/steep@1.9.4"
     },
     "bin": {
       "steep": "gem:steep"
