@@ -1,1 +1,0 @@
-{"metrics":{"completion_time":1738658807984,"start_time":1738658806057},"links":{"share":{},"opt":{},"bin":{"omnisharp-mono":"omnisharp-mono"}},"primary_source":{"id":"pkg:github\/omnisharp\/omnisharp-roslyn@v1.39.13","type":"registry+v1"},"schema_version":"1.1","secondary_sources":[],"name":"omnisharp-mono"}

@@ -29,6 +29,7 @@ lazy/*
 node_modules/
 package-lock.json
 yarn.lock
+mason/registries/github/mason-org/mason-registry/info.json
 
 # Ignore system files
 .DS_Store
